@@ -22,8 +22,8 @@ Install Truffle
 
 On creting new project file on truffle, the project will include some folders and files:
 
-1.contracts
-2.migrations
-3.test
-4.truffle-config.js
+1. contracts
+2. migrations
+3. test
+4. truffle-config.js
 
