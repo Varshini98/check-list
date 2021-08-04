@@ -3,7 +3,7 @@ First Blockchain App Using Ethereum Smart Contracts and Solidity
 
 *Ethereum development environment setup in Ubuntu*
 
-Install Truffle and Ganache in Ubuntu 18.04
+Install Truffle and Ganache in Ubuntu 18.04 :
 
 Install Ganache
  1. chmod a+x ganache-1.3.0-x86_64.AppImage
@@ -18,7 +18,7 @@ Install NodeJS and NPM
 
 Install Truffle
  1. sudo npm install -g truffle
- 2.truffle version
+ 2. truffle version
 
 On creting new project file on truffle, the project will include some folders and files:
 
